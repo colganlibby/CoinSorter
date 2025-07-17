@@ -38,7 +38,7 @@ This interactive embedded system uses an Arduino Mega, IR sensors, and an LCD sc
 
 | Arduino Setup | LCD Counting Display | Final Assembled Design |
 |---------------|----------------------|-------------------------|
-| ![Arduino Setup](arduino-setup.png) | ![LCD Display](lcd-counting.png) | ![Final Design](final-design.png) |
+| ![Arduino Setup](pic1.png) | ![LCD Display](pic2.png) | ![Final Design](pic3.png) |
 
 ---
 
